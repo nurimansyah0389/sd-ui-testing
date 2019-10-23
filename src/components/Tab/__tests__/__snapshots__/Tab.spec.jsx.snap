@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tab Spec Should render without error 1`] = `
+<nav
+  className="Tab "
+>
+  <div
+    className="Tab__Section"
+  >
+    <div
+      className=""
+      onClick={[Function]}
+    >
+      Flight Detail
+    </div>
+    <div
+      className=""
+      onClick={[Function]}
+    >
+      Price Detail
+    </div>
+  </div>
+  <div
+    className="Tab__Content "
+  />
+</nav>
+`;

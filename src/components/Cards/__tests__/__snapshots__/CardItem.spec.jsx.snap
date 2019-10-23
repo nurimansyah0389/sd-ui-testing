@@ -5,7 +5,7 @@ exports[`Card Item Spec Should render without any error 1`] = `
   className="Card__Item"
 >
   <h2>
-    Garuda Indonesia
+    Lion Air
   </h2>
   <div
     className="Item"
@@ -21,14 +21,14 @@ exports[`Card Item Spec Should render without any error 1`] = `
         >
           <img
             alt=""
-            src="https://static.tiket.photos/image/upload/v1534836229/string/2018/08/21/93102e79-7442-458e-a227-789bd08eddb0c4f3f430c09d1128f1f0019aaaec2679.png"
+            src="https://static.tiket.photos/image/upload/v1534836616/string/2018/08/21/77df219f-f1d2-494b-a5e7-a339a30e68dd36101a6e250cd0c3b727098ef19b62c6.png"
           />
         </div>
         <div
           className="Left__Departure"
         >
           <div>
-            11:40
+            11:42
           </div>
           <div>
             CGK
@@ -49,7 +49,7 @@ exports[`Card Item Spec Should render without any error 1`] = `
           className="Left__Arrival"
         >
           <div>
-            11:42
+            11:38
           </div>
           <div>
             SIN
@@ -64,7 +64,7 @@ exports[`Card Item Spec Should render without any error 1`] = `
         >
           <span>
             IDR 
-            1,350,000
+            670,700
           </span>
           <span>
             /pax
@@ -75,6 +75,29 @@ exports[`Card Item Spec Should render without any error 1`] = `
     <div
       className="Item__Action"
     >
+      <nav
+        className="Tab "
+      >
+        <div
+          className="Tab__Section"
+        >
+          <div
+            className=""
+            onClick={[Function]}
+          >
+            Flight Detail
+          </div>
+          <div
+            className=""
+            onClick={[Function]}
+          >
+            Price Detail
+          </div>
+        </div>
+        <div
+          className="Tab__Content "
+        />
+      </nav>
       <button
         className="Button Button_Primary"
         onClick={[Function]}

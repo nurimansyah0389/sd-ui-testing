@@ -1,0 +1,33 @@
+.Tab {
+    margin-top: 20px;
+    padding-left: 120px;
+}
+.Tab__Section {
+    display: flex;
+}
+.Tab__Section > div {
+    color: var(--color-primary);
+    cursor: pointer;
+    padding-bottom: 30px;
+}
+.Tab__Section > div:hover {
+    color: var(--color-lighten);
+}
+.Tab__Section > div:nth-child(1) {
+    margin-right: 50px;
+}
+.Tab__Section > .selected {
+    border-bottom: 1px solid var(--color-primary);
+}
+.Tab__Content {
+    margin-left: -120px;
+    border-top: 1px solid #ddd;
+    padding: 10px 0;
+    display: none;
+}
+.Tab__Content.show {
+    display: block;
+}
+.Tab__Content > img {
+    max-width: 100%;
+}

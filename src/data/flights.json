@@ -1,36 +1,42 @@
 [
     {
         "id": "1",
-        "flightName": "Garuda Indonesia",
-        "departureCode": "CGK",
-        "departureTime": 1572046547,
-        "arrivalCode": "SIN",
-        "arrivalTime": 1572132977,
-        "tripDuration": 172800,
-        "price": 1350000,
-        "logo": "https://static.tiket.photos/image/upload/v1534836229/string/2018/08/21/93102e79-7442-458e-a227-789bd08eddb0c4f3f430c09d1128f1f0019aaaec2679.png"
-    },
-    {
-        "id": "2",
         "flightName": "Lion Air",
         "departureCode": "CGK",
         "departureTime": 1572149547,
         "arrivalCode": "SIN",
         "arrivalTime": 1571933977,
         "tripDuration": 172800,
-        "price": 1650000,
-        "logo": "https://static.tiket.photos/image/upload/v1534836616/string/2018/08/21/77df219f-f1d2-494b-a5e7-a339a30e68dd36101a6e250cd0c3b727098ef19b62c6.png"
+        "price": 670700,
+        "logo": "https://static.tiket.photos/image/upload/v1534836616/string/2018/08/21/77df219f-f1d2-494b-a5e7-a339a30e68dd36101a6e250cd0c3b727098ef19b62c6.png",
+        "flightDetail": "assets/images/detail_jt.png",
+        "priceDetail": "assets/images/price_jt.png"
     },
     {
-        "id": "3",
+        "id": "2",
         "flightName": "Jet Star Asia",
         "departureCode": "CGK",
         "departureTime": 1572246547,
         "arrivalCode": "SIN",
         "arrivalTime": 1572332977,
         "tripDuration": 172800,
-        "price": 2050000,
-        "logo": "https://static.tiket.photos/image/upload/v1534992977/string/2018/08/23/266eeabb-0d50-4963-8721-9445bc61634a88f6a2c8a2cdfbb2028923f304121fc9.png"
+        "price": 882700,
+        "logo": "https://static.tiket.photos/image/upload/v1534992977/string/2018/08/23/266eeabb-0d50-4963-8721-9445bc61634a88f6a2c8a2cdfbb2028923f304121fc9.png",
+        "flightDetail": "assets/images/detail_3k.png",
+        "priceDetail": "assets/images/price_3k.png"
+    },
+    {
+        "id": "3",
+        "flightName": "Batik Air",
+        "departureCode": "CGK",
+        "departureTime": 1572646547,
+        "arrivalCode": "SIN",
+        "arrivalTime": 1572732977,
+        "tripDuration": 172800,
+        "price": 1198000,
+        "logo": "https://static.tiket.photos/image/upload/v1534831998/string/2018/08/21/ed396405-de36-47de-bb63-a77ede31b440496ffdd3b1650405cea0fe5d6ca8b5c6.png",
+        "flightDetail": "assets/images/detail_id.png",
+        "priceDetail": "assets/images/price_id.png"
     },
     {
         "id": "4",
@@ -40,18 +46,22 @@
         "arrivalCode": "SIN",
         "arrivalTime": 1572532977,
         "tripDuration": 172800,
-        "price": 2550000,
-        "logo": "https://static.tiket.photos/image/upload/v1534837717/string/2018/08/21/71297686-7116-4dca-b152-016c23e5b5a767599e67d66ae39159e29a305ced2122.png"
+        "price": 1213500,
+        "logo": "https://static.tiket.photos/image/upload/v1534837717/string/2018/08/21/71297686-7116-4dca-b152-016c23e5b5a767599e67d66ae39159e29a305ced2122.png",
+        "flightDetail": "assets/images/detail_tr.png",
+        "priceDetail": "assets/images/price_tr.png"
     },
     {
         "id": "5",
-        "flightName": "Batik Air",
+        "flightName": "Garuda Indonesia",
         "departureCode": "CGK",
-        "departureTime": 1572646547,
+        "departureTime": 1572046547,
         "arrivalCode": "SIN",
-        "arrivalTime": 1572732977,
+        "arrivalTime": 1572132977,
         "tripDuration": 172800,
-        "price": 2850000,
-        "logo": "https://static.tiket.photos/image/upload/v1534831998/string/2018/08/21/ed396405-de36-47de-bb63-a77ede31b440496ffdd3b1650405cea0fe5d6ca8b5c6.png"
+        "price": 1813900,
+        "logo": "https://static.tiket.photos/image/upload/v1534836229/string/2018/08/21/93102e79-7442-458e-a227-789bd08eddb0c4f3f430c09d1128f1f0019aaaec2679.png",
+        "flightDetail": "assets/images/detail_ga.png",
+        "priceDetail": "assets/images/price_ga.png"
     }
 ]

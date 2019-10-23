@@ -2,6 +2,7 @@
     --color-primary: #0064d2;
     --color-secondary: #fedd00;
     --color-background: #f5f6fa;
+    --color-lighten: rgba(0,100,210,.7);
 
     --font-family: 'Open Sans', sans-serif;
 }

@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import numeral from 'numeral';
 import dayjs from 'dayjs';
 
+import Tab from '../Tab';
 import './style.css';
 
 const handleChooseFlight = item => alert(`Flight ${item.flightName} selected!`)
@@ -37,6 +38,7 @@ const CardItem = ({ data }) => (
                 </div>
             </div>
             <div className="Item__Action">
+                <Tab data={data}/>
                 <button className="Button Button_Primary" type="button" onClick={() => handleChooseFlight(data)}>Choose Flight</button>
             </div>
         </div>
