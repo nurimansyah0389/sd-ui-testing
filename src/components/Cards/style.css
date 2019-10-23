@@ -1,0 +1,83 @@
+.Card {
+    background: var(--color-background);
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.Card__Item {
+    background: white;
+    padding: 10px 20px 20px;
+    border-radius: 4px;
+}
+.Card__Item:not(:last-child) {
+    margin-bottom: 20px;
+}
+.Card__Item > h2 {
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.Item__Info {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-between;
+}
+.Item__Action {
+    text-align: right;
+}
+
+.Left {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+.Left__Logo {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 20px;
+}
+.Left__Logo > img {
+    width: 75px;
+}
+.Left__Departure {
+    margin-right: 10px;
+}
+.Left__Departure,
+.Left__Arrival {
+    text-align: center;
+}
+.Left__Departure > div:first-child,
+.Left__Arrival > div:first-child {
+    font-size: 18px;
+    font-weight: bold;
+}
+.Left__Duration {
+    margin-right: 10px;
+    text-align: center;
+    font-size: 12px;
+}
+.Left__Duration > div:first-child {
+    color: #777;
+    padding-bottom: 5px;
+}
+.Left__Duration > div:last-child {
+    border-top: 1px solid #777;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.Right__Price {
+    color: var(--color-primary);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Right__Price > span:last-child {
+    color: #777;
+    font-weight: normal;
+    font-size: 12px;
+}

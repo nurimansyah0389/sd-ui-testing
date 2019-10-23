@@ -1,0 +1,14 @@
+.Button {
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px 30px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.Button_Primary {
+    color: var(--color-primary);
+    background-color: var(--color-secondary);
+}

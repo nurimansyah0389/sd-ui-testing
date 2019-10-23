@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Item Spec Should render without any error 1`] = `
+<div
+  className="Card__Item"
+>
+  <h2>
+    Garuda Indonesia
+  </h2>
+  <div
+    className="Item"
+  >
+    <div
+      className="Item__Info"
+    >
+      <div
+        className="Left"
+      >
+        <div
+          className="Left__Logo"
+        >
+          <img
+            alt=""
+            src="https://static.tiket.photos/image/upload/v1534836229/string/2018/08/21/93102e79-7442-458e-a227-789bd08eddb0c4f3f430c09d1128f1f0019aaaec2679.png"
+          />
+        </div>
+        <div
+          className="Left__Departure"
+        >
+          <div>
+            11:36
+          </div>
+          <div>
+            CGK
+          </div>
+        </div>
+        <div
+          className="Left__Duration"
+        >
+          <div>
+            1
+            h 0m
+          </div>
+          <div>
+            Direct
+          </div>
+        </div>
+        <div
+          className="Left__Arrival"
+        >
+          <div>
+            11:36
+          </div>
+          <div>
+            SIN
+          </div>
+        </div>
+      </div>
+      <div
+        className="Right"
+      >
+        <div
+          className="Right__Price"
+        >
+          <span>
+            IDR 
+            360,000
+          </span>
+          <span>
+            /pax
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="Item__Action"
+    >
+      <button
+        className="Button Button_Primary"
+        onClick={[Function]}
+        type="button"
+      >
+        Choose Flight
+      </button>
+    </div>
+  </div>
+</div>
+`;

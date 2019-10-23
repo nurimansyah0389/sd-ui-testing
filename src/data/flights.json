@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "flightName": "Garuda Indonesia",
+        "departureCode": "CGK",
+        "departureTime": 1571846547,
+        "arrivalCode": "SIN",
+        "arrivalTime": 1571932977,
+        "tripDuration": 172800,
+        "price": 1350000
+    },
+    {
+        "id": "2",
+        "flightName": "Garuda Indonesia",
+        "departureCode": "CGK",
+        "departureTime": 1571846547,
+        "arrivalCode": "SIN",
+        "arrivalTime": 1571932977,
+        "tripDuration": 172800,
+        "price": 1650000
+    },
+    {
+        "id": "3",
+        "flightName": "Garuda Indonesia",
+        "departureCode": "CGK",
+        "departureTime": 1571846547,
+        "arrivalCode": "SIN",
+        "arrivalTime": 1571932977,
+        "tripDuration": 172800,
+        "price": 2050000
+    },
+    {
+        "id": "4",
+        "flightName": "Garuda Indonesia",
+        "departureCode": "CGK",
+        "departureTime": 1571846547,
+        "arrivalCode": "SIN",
+        "arrivalTime": 1571932977,
+        "tripDuration": 172800,
+        "price": 2550000
+    },
+    {
+        "id": "5",
+        "flightName": "Garuda Indonesia",
+        "departureCode": "CGK",
+        "departureTime": 1571846547,
+        "arrivalCode": "SIN",
+        "arrivalTime": 1571932977,
+        "tripDuration": 172800,
+        "price": 2850000
+    }
+]

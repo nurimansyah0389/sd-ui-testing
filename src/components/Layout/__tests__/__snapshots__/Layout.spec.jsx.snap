@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout Spec Should render children without error 1`] = `
+<main
+  className="Main"
+>
+  <div
+    className="Main__Logo"
+  >
+    <img
+      alt=""
+      src="/assets/images/logo.png"
+    />
+  </div>
+  <div
+    className="Main__Header"
+  >
+    <h1>
+      Snapshot Testing Showcase
+    </h1>
+  </div>
+  <div
+    className="Main__Container"
+  >
+    Hello World
+  </div>
+</main>
+`;

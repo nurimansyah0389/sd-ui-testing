@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    font-family: var(--font-family);
+}
+
+body {
+    margin: 0 auto;
+    font-size: 14px;
+}
