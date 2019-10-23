@@ -28,7 +28,7 @@ exports[`Card Item Spec Should render without any error 1`] = `
           className="Left__Departure"
         >
           <div>
-            11:36
+            11:40
           </div>
           <div>
             CGK
@@ -38,7 +38,7 @@ exports[`Card Item Spec Should render without any error 1`] = `
           className="Left__Duration"
         >
           <div>
-            1
+            48
             h 0m
           </div>
           <div>
@@ -49,7 +49,7 @@ exports[`Card Item Spec Should render without any error 1`] = `
           className="Left__Arrival"
         >
           <div>
-            11:36
+            11:42
           </div>
           <div>
             SIN
@@ -64,7 +64,7 @@ exports[`Card Item Spec Should render without any error 1`] = `
         >
           <span>
             IDR 
-            360,000
+            1,350,000
           </span>
           <span>
             /pax

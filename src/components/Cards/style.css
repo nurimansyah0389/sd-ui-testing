@@ -37,9 +37,12 @@
     border-radius: 5px;
     padding: 10px;
     margin-right: 20px;
+    width: 100px;
+    text-align: center;
 }
 .Left__Logo > img {
-    width: 75px;
+    max-width: 150px;
+    max-height: 30px;
 }
 .Left__Departure {
     margin-right: 10px;

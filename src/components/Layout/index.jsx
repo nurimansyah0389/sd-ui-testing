@@ -8,7 +8,7 @@ const Layout = ({ children }) => <main className="Main">
         <img src="/assets/images/logo.png" alt=""/>
     </div>
     <div className="Main__Header">
-        <h1>Snapshot Testing Showcase</h1>
+        <h1>UI Testing Showcase</h1>
     </div>
     <div className="Main__Container">{children}</div>
 </main>;

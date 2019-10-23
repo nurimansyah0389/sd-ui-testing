@@ -13,7 +13,7 @@ const CardItem = ({ data }) => (
         <div className="Item">
             <div className="Item__Info">
                 <div className="Left">
-                    <div className="Left__Logo"><img src="https://static.tiket.photos/image/upload/v1534836229/string/2018/08/21/93102e79-7442-458e-a227-789bd08eddb0c4f3f430c09d1128f1f0019aaaec2679.png" alt=""/></div>
+                    <div className="Left__Logo"><img src={data.logo} alt=""/></div>
                     <div className="Left__Departure">
                         <div>{dayjs(data.departureTime).format('hh:mm')}</div>
                         <div>{data.departureCode}</div>

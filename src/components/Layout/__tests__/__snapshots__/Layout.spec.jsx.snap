@@ -16,7 +16,7 @@ exports[`Layout Spec Should render children without error 1`] = `
     className="Main__Header"
   >
     <h1>
-      Snapshot Testing Showcase
+      UI Testing Showcase
     </h1>
   </div>
   <div
